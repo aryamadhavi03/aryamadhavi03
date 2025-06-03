@@ -67,10 +67,10 @@ I'm a passionate Full-Stack Developer currently pursuing B.E. in Information Tec
 ---
 
 ### 🏆 Achievements
-- 🥇 Finalist – *Hack to Crack 2.0 (National Level)*  
-- 🥈 Top 5 – *Innospark Ideathon (SAIT-Kharghar)*  
-- 🥉 Top 10 – *AgriTech Hackathon (KJSSE-Vidyavihar)*  
-- 🎤 Mentored students in public speaking under a government initiative
+- Finalist – *Hack to Crack 2.0 (National Level)*  
+- Top 5 – *Innospark Ideathon (SAIT-Kharghar)*  
+- Top 10 – *AgriTech Hackathon (KJSSE-Vidyavihar)*  
+- Mentored students in public speaking under a government initiative
 
 ---
 
