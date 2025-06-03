@@ -1,14 +1,30 @@
-<h1 align="center">Hi there 👋, I'm Arya Madhavi</h1>
+<h1 align="center">I'm Arya Madhavi</h1>
 <h3 align="center">Full-Stack Developer | Innovator | Hackathon Enthusiast</h3>
 
 ---
 
 ### 💡 About Me
-I'm a passionate Full-Stack Developer currently pursuing B.E. in Information Technology from VESIT (CGPA: 9.30). I love building solutions that combine machine learning, real-time APIs, and sleek frontends to solve real-world problems.
-
-💼 Currently: Web Developer Intern @ Palcao Solutions Pvt. Ltd.  
+I'm a passionate Full-Stack Developer currently pursuing B.E. in Information Technology from Vivekanand Education Institute of Technology (VESIT) (CGPA: 9.30). I love building solutions that combine machine learning, real-time APIs, and sleek frontends to solve real-world problems.
+ 
 📍 Based in: Pen-Raigad, Maharashtra  
 📫 Reach me at: [aryammadhavi@gmail.com](mailto:aryammadhavi@gmail.com)
+
+---
+### Experience
+
+**Web Developer**  
+*Palcao Solutions Pvt. Ltd.* | Jul 2024 – Oct 2024  
+- Developed a dynamic MERN-based salon appointment and online store management website for booking appointments, managing services, and processing orders.
+
+**Senior Operations Officer**  
+*CSI VESIT* | Jul 2023 – Jul 2025  
+- Boosted efficiency through strategic planning and execution, enhancing resource management.  
+- Planned and executed large-scale events and workshops, managing logistics, crowd engagement, and securing key sponsorships.
+
+**Junior Member**  
+*VESLANG* | Jul 2023 – Jul 2024  
+- Guided juniors in communication and public speaking, improving their confidence and stage presence.  
+- Coordinated high-impact events with significant crowd engagement.
 
 ---
 
