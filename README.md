@@ -31,7 +31,7 @@ I'm a passionate Full-Stack Developer currently pursuing B.E. in Information Tec
 - 📊 **EduVision**  
   *Analyzes student reports and attendance with ML + Google Gemini APIs.*  
   `Flask`, `React`, `MongoDB`  
-  [GitHub Repo](#) (Add if available)
+  [GitHub Repo](https://github.com/aryamadhavi03/EduVision)
 
 - 🧾 **Travel Budget Management**  
   *Plans trips, budgets, and suggests places.*  
