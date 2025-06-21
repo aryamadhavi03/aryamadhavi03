@@ -7,7 +7,7 @@
 ---
 
 ### 💡 About Me
-🎓 B.E. in Information Technology @ VESIT (CGPA: 9.30)  
+🎓 B.E. in Information Technology @ VESIT (CGPA: 9.41)  
 🌍 Based in **Pen-Raigad, Maharashtra**  
 📫 Reach me at **aryammadhavi@gmail.com**  
 💬 I love solving real-world problems using **ML**, **Real-Time APIs**, and **clean UI**
@@ -15,26 +15,54 @@
 ---
 
 ### 🔧 Skills & Tools
-**Languages:**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 
-**Frameworks & Libraries:**  
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) 
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white) 
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+#### 🖥️ Programming Languages  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-**Databases:**  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white) 
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white) 
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white)
+---
 
-**Others:**  
-Git · GitHub · EasyOCR · Google APIs · Pandas · Seaborn · Matplotlib · Tkinter
+#### ⚙️ Frameworks & Libraries  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-blue?style=for-the-badge)
+
+> 🧠 Familiar with Python libraries for Data Science:  
+> `Pandas`, `Seaborn`, `Matplotlib`, `EasyOCR`
+
+---
+
+#### 🗄️ Databases  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+#### 🛠️ Version Control  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+#### 🖧 IT Constructs  
+![Operating Systems](https://img.shields.io/badge/Operating%20Systems-blue?style=for-the-badge)
+![DSA](https://img.shields.io/badge/Data%20Structures-orange?style=for-the-badge)
+![Computer Networks](https://img.shields.io/badge/Computer%20Networks-7CFC00?style=for-the-badge)
+
+---
+
+#### 💬 Soft Skills  
+![Communication](https://img.shields.io/badge/Communication-8A2BE2?style=for-the-badge)
+![Teamwork](https://img.shields.io/badge/Teamwork-20B2AA?style=for-the-badge)
+![Adaptability](https://img.shields.io/badge/Adaptability-FFA500?style=for-the-badge)
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-DC143C?style=for-the-badge)
+
 
 ---
 
@@ -70,12 +98,18 @@ Git · GitHub · EasyOCR · Google APIs · Pandas · Seaborn · Matplotlib · Tk
 
 ### 📊 GitHub Stats
 
+### 📊 GitHub Stats
+
 <p align="center">
-  <img src="/mnt/data/9394fcf9-9c6b-4505-be9f-0f0a00e690b2.png" width="600" alt="GitHub Stats Image" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aryamadhavi&show_icons=true&theme=radical" alt="Arya's GitHub Stats" />
 </p>
 
-> **Languages Used:**  
-> 🟨 JavaScript (64.33%) | 🔵 Python (10.68%) | 🟫 Java (8.70%) | 🟩 Dart (8.26%) | 🟪 CSS (5.67%) | 🔴 HTML (2.36%)
+### 🧠 Languages Used
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryamadhavi&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
 
 ---
 
