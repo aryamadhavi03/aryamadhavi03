@@ -68,19 +68,19 @@
 
 ### 🧠 Featured Projects
 - 🚗 **FleetFix** – Intelligent vehicle maintenance w/ ML + APIs  
-  _Python, Tkinter, SQLite, Pandas_ – [GitHub Repo](#)
+  _Python, Tkinter, SQLite, Pandas_ – [GitHub Repo](https://github.com/aryamadhavi03/fleetfix-project)
 
 - 📊 **EduVision** – Student analytics w/ Google Gemini  
-  _Flask, React, MongoDB_ – [GitHub Repo](#)
+  _Flask, React, MongoDB_ – [GitHub Repo](https://github.com/aryamadhavi03/EduVision)
 
 - 🧾 **Travel Budget Planner** – Trip budgeting desktop app  
-  _Java, GUI_ – [GitHub Repo](#)
+  _Java, GUI_ – [GitHub Repo](https://github.com/aryamadhavi03/TravelBudgetManagement)
 
 - 🛒 **GrocerySync** – Smart inventory + analytics  
-  _Python, Tkinter_ – [GitHub Repo](#)
+  _Python, Tkinter_ – [GitHub Repo](https://github.com/aryamadhavi03/GroceryManagement)
 
 - 💇‍♀️ **SalonX** – MERN-based salon booking + eStore  
-  _React, Node.js, MongoDB_ – [GitHub Repo](#)
+  _React, Node.js, MongoDB_ – [GitHub Repo](https://github.com/aryamadhavi03/SalonX)
 
 ---
 
@@ -95,8 +95,6 @@
   _Mentored students and led public speaking events._
 
 ---
-
-### 📊 GitHub Stats
 
 ### 📊 GitHub Stats
 
