@@ -127,11 +127,6 @@
 
 ---
 
-### 🔥 LeetCode
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/aryamadhavi03?theme=dark&font=Montserrat)](https://leetcode.com/u/aryamadhavi03/)
-
----
 
 ### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
